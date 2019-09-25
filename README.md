@@ -10,9 +10,12 @@ Create an 'all/' endpoint that prints out all entry purchaseTimes, create a new 
 ## In Class
 
 ### Exercise 2
-Create a Person model with name, age, and birthday attributes. Create 3 entries using 3 different methods (admin site, create method using an endpoint, and class construtor using an endpoint).
+Create a Person model with name, age, and birthday attributes. Create 3 entries using 2 different methods (admin site and class construtor using an endpoint).
 
-Create an 'all/' endpoint that prints out all entry names, create a new endpoint that only prints entries with ages greater than 21, and create another new endpoint to change the name of at least one entry that's greater than 21 to "Kevin".
+Create an 'all/' endpoint that prints out all entry names abd create a new endpoint that only prints entries with ages greater than 21.
+
+### Challenge 
+Create another new endpoint to change the name of at least one entry that's greater than 21 to "Kevin".
 
 ### Exercise 3
 Create a House model with address, bedrooms, bathrooms, and squareFeet attributes. Create 3 entries using 3 different methods (admin site, create method using an endpoint, and class construtor using an endpoint).
